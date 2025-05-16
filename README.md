@@ -4,7 +4,7 @@
 ---
 
 ### 🙋‍♀️ About Me
-I'm a passionate Frontend Web Developer from Indonesia 🇮🇩 who enjoys building responsive, user-friendly websites and dashboards. I love turning ideas into interactive digital experiences and always eager to learn something new in tech.
+I'm a passionate Frontend Web Developer from Indonesia 🇮🇩 who enjoys building responsive, user-friendly websites and dashboards. I love turning ideas into interactive digital experiences and always eager to learn something new in tech. I also enjoy experimenting and building projects with the assistance of AI, exploring how these tools can enhance the creative coding process.
 
 ---
 
@@ -13,6 +13,7 @@ I'm a passionate Frontend Web Developer from Indonesia 🇮🇩 who enjoys build
 - 🌱 Currently learning **ReactJS**, **REST API**, and **modern frontend workflows**
 - 💞️ Looking to collaborate on open-source or personal web projects
 - 🛠 Actively leveling up my skills through hands-on practice and real projects
+- ✨ Experimenting with AI tools to enhance the creative coding process and project development.
 
 ---
 
